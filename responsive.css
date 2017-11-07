@@ -1,0 +1,106 @@
+@media screen and (max-width: 925px)
+{
+.responsive-one{
+  position: absolute;
+  width: 100%;
+}
+.content-left{
+  width: 100%;
+}
+.content-right{
+  margin-top: 1100px;
+}
+.profile-lorem{
+  margin-top: -10px;
+}
+.profile{
+  margin-top: -110px;
+}
+.profile-logo{
+  margin-top: 0;
+}
+.profile-text{
+  margin-top: 0;
+}
+.profile-lorem{
+  padding: 0;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.line-profile{
+  visibility: hidden;
+}
+.line-contact{
+  visibility: hidden;
+  margin-top: -50px;
+}
+.line-skills{
+  visibility: hidden;
+  margin-top: -50px;
+}
+.line-softwere{
+  visibility: hidden;
+}
+.line-education{
+  visibility: hidden;
+}
+.contact-content{
+  margin-bottom: 30px ;
+}
+.logo{
+  height: 375px;
+}
+.cicrle-over{
+  left: 40%;
+}
+.software-content{
+ width: 100%;
+ margin-left: 40%;
+}
+.softwere-left{
+  clear: both;
+  width: 200px;
+}
+.softwere-right{
+  width: 200px;
+  clear: both;
+}
+
+}
+
+@media screen and (max-width: 620px)
+{
+.cicrle-over{
+      left: 37%;
+}
+.software-content{
+ margin-left: 30%;
+}
+.content-right{
+  margin-top: 1000px;
+}
+
+}
+
+@media screen and (max-width: 500px) {
+.cicrle-over{
+  left: 34%;
+}
+}
+
+@media screen and (max-width: 400px) {
+.cicrle-over{
+  left: 30%;
+}
+.software-content{
+ margin-left: 20%;
+}
+
+}
+
+@media screen and (max-width: 350px) {
+.software-content{
+ margin-left: 10%;
+}
+
+}
